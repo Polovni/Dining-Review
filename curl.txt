@@ -1,0 +1,16 @@
+{ "id": "1", "name": "CityFood", "line1": "Miroslava Krlee", "city": "Karlovac", "state": "Hrvatska", "zipCode": "47000", "phoneNumber": "", "website": "", "overallScore": "", "peanutScore": "", "dairyScore": "", "eggScore": "" }
+{ "id": "2", "name": "HamHam", "line1": "Tihovac 4", "city": "Karlovac", "state": "Hrvatska", "zipCode": "47000", "phoneNumber": "", "website": "", "overallScore": "", "peanutScore": "", "dairyScore": "", "eggScore": "" }
+{ "id": "3", "name": "Vamy", "line1": "Jamadol 14", "city": "Karlovac", "state": "Hrvatska", "zipCode": "47000", "phoneNumber": "", "website": "", "overallScore": "", "peanutScore": "", "dairyScore": "", "eggScore": "" }
+{ "id": "4", "name": "Behar", "line1": "Kumiciceva 1", "city": "Karlovac", "state": "Hrvatska", "zipCode": "47000", "phoneNumber": "", "website": "", "overallScore": "", "peanutScore": "", "dairyScore": "", "eggScore": "" }
+{ "id": "5", "name": "Galileo", "line1": "Kumiciceva 12", "city": "Rijeka", "state": "Hrvatska", "zipCode": "51000", "phoneNumber": "", "website": "", "overallScore": "", "peanutScore": "", "dairyScore": "", "eggScore": "" }
+
+{ "id": "1", "displayName": "Luka", "city": "Karlovac", "state": "Hrvatska", "zipCode": "47000", "peanut": "true", "dairy": "true", "egg": "true"}
+{ "id": "2", "displayName": "Tin", "city": "Karlovac", "state": "Hrvatska", "zipCode": "47000", "peanut": "false", "dairy": "false", "egg": "false"}
+{ "id": "3", "displayName": "Anton", "city": "Karlovac", "state": "Hrvatska", "zipCode": "47000", "peanut": "false", "dairy": "true", "egg": "false"}
+{ "id": "4", "displayName": "Fran", "city": "Karlovac", "state": "Hrvatska", "zipCode": "47000", "peanut": "true", "dairy": "false", "egg": "false"}
+{ "id": "5", "displayName": "Maks", "city": "Karlovac", "state": "Hrvatska", "zipCode": "47000", "peanut": "false", "dairy": "false", "egg": "true"}
+
+
+{ "id": "1", "submittedBy": "Luka", "restaurantId": "1", "review": "Great Hamburgers", "peanutScore": "5", "dairyScore": "5", "eggScore": "5" }
+{ "id": "1", "submittedBy": "Maks", "restaurantId": "1", "review": "Not so great food", "peanutScore": "3", "dairyScore": "3", "eggScore": "3" }
+{ "id": "1", "submittedBy": "Fran", "restaurantId": "1", "review": "Had better", "peanutScore": "2", "dairyScore": "2", "eggScore": "4" }
